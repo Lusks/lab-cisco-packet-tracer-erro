@@ -1,7 +1,7 @@
 # Laboratório Cisco Packet Tracer - Erro de Conexão entre Roteador e Webcam
 
 ## Descrição
-Este laboratório simula uma rede simples (LAN) e a correção do erro "The cable cannot be connected to that port" no Cisco Packet Tracer.
+Este laboratório simula uma rede e a correção do erro "The cable cannot be connected to that port" no Cisco Packet Tracer.
 
 <br>
 
