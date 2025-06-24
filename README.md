@@ -38,7 +38,7 @@ Este laboratório simula uma rede e a correção do erro "The cable cannot be co
 
 ## 🔎 Causa Identificada
 
-O erro ocorreu porque eu estava tentando usar um **tipo de conexão inadequada** entre o roteador e a webcam.
+O erro ocorreu porque eu estava tentando utilizar um **tipo de conexão inadequada** entre o roteador e a webcam. A webcam é wireless, a conexão automática forneceu uma conexão cabeada.
 
 <br>
 
