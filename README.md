@@ -21,6 +21,7 @@
 3. Erro exibido:
 
 > "The cable cannot be connected to that port"
+![Erro exibido](imagens/1.The%20cable%20cannot%20be%20connected%20to%20that%20port.png)
 
 <br>
 
@@ -44,9 +45,17 @@ Ao abrir a janela de configurações, clique na opção **"Advanced"** (localiza
 
 <br>
 
+![Erro exibido](imagens/2.Advanced.png)
+
+<br>
+
 2. **Habilite a aba "I/O Config"**
 
 Agora você verá a aba **"I/O Config"** ao lado de **"Specifications"**.
+
+<br>
+
+![Erro de configuração IO](imagens/3.IO%20Config.png)
 
 <br>
 
@@ -60,7 +69,11 @@ Dentro da aba **"I/O Config"**, altere a opção de adaptador de rede para:
 
 4. **Tente conectar novamente**
 
-Ao tentar gerar uma nova conexão entre o **roteador** e a **webcam**, o **erro desapareceu**.
+Ao tentar gerar uma nova conexão entre o **roteador** e a **webcam**, o **erro desaparece**.
+
+<br>
+
+![Erro avançado](imagens/4.End.png)
 
 <br>
 
